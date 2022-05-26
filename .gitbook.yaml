@@ -1,0 +1,3 @@
+root: ./article/
+  structure:  
+    readme: README.md 
