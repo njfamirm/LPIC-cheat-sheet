@@ -1,5 +1,5 @@
 root: Diaries/
 
 structure:
-  readme: ../README.md
+  readme: README.md
     
