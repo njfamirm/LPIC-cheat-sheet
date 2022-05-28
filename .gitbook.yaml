@@ -1,3 +1,5 @@
-root: ./article/
-  structure:  
-    readme: README.md 
+root: article/
+
+structure:
+  readme: ../README.md
+    
