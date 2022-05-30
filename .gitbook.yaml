@@ -1,4 +1,4 @@
-root: Diaries/
+root: ./
 
 structure:
   readme: README.md
