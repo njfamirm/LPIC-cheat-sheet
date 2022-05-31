@@ -4,6 +4,7 @@
 
 ## Notes
 
+- [Git](Notes/git.md)
 - [Vim](Notes/vim.md)
 - [Dotfiles](Notes/dotfiles.md)
 - [Fun Command](Notes/fun-command.md)
