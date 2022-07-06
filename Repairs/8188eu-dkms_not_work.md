@@ -1,16 +1,21 @@
 # 8188eu-dkms not work
 
 1. Remove package
+
 ```sh
 yay -Rcns 8188eu-dkms
 ```
+
 2. reboot
 3. Install Again
+
 ```sh
 sudo mhwd -i pci network-r8168
 ```
+
 4. reboot agin
-. *Restart Network Manager if needed*
+5. _Restart Network Manager if needed_
+
 ```sh
 sudo systemctl restart NetworkManager
 ```
