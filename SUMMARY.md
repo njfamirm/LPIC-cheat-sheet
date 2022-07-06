@@ -7,6 +7,7 @@
 - [ZSH](Tricks/zsh.md)
 - [Git](Tricks/git.md)
 - [Vim](Tricks/vim.md)
+- [Commands](Tricks/commands.md)
 - [Dotfiles](Tricks/dotfiles.md)
 - [Fun Command](Tricks/fun-command.md)
 
