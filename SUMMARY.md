@@ -2,13 +2,13 @@
 
 - [About](./README.md)
 
-## Notes
+## Tricks
 
-- [ZSH](Notes/zsh.md)
-- [Git](Notes/git.md)
-- [Vim](Notes/vim.md)
-- [Dotfiles](Notes/dotfiles.md)
-- [Fun Command](Notes/fun-command.md)
+- [ZSH](Tricks/zsh.md)
+- [Git](Tricks/git.md)
+- [Vim](Tricks/vim.md)
+- [Dotfiles](Tricks/dotfiles.md)
+- [Fun Command](Tricks/fun-command.md)
 
 ## Repairs
 
