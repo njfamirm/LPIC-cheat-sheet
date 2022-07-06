@@ -1,10 +1,26 @@
 # Vim
 
-### Replace strings
+### Replace string
+
+#### Replce the first occurrence of the string
+
+```
+:s/foo/bar/
+```
+
+#### Replace all occurrences of the search pattern in the current line
+
+```
+:s/foo/bar/g
+```
+
+#### Replace the pattern in the entire file
 
 ```
 :%s/foo/bar/g
 ```
+
+> `bar` can be empty to remove the string
 
 ### move line
 
