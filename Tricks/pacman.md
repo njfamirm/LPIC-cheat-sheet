@@ -18,5 +18,5 @@ pacman -Qtdq | pacman -Rns -
 
 ## Source
 
-- [browsing packages](https://wiki.archlinux.org/title/pacman/Tips_and_tricks#Listing_packages)
-- [Removing unused packages](<https://wiki.archlinux.org/title/pacman/Tips_and_tricks#Removing_unused_packages_(orphans)>)
+- [browsing packages blog](https://wiki.archlinux.org/title/pacman/Tips_and_tricks#Listing_packages)
+- [Removing unused packages blog](<https://wiki.archlinux.org/title/pacman/Tips_and_tricks#Removing_unused_packages_(orphans)>)
